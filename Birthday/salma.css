@@ -1,0 +1,25 @@
+.card {
+    background-color: #fff;    
+    height: 35%;
+    margin: 80% 15%;
+    border-radius: 7px;
+    padding: 10%;
+    box-shadow: 10px 10px 10px black;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+}
+
+body {
+    margin: 0px;
+    align-items: center;
+    display: grid;
+}
+
+h1 {
+    text-align: center;
+}
+
+html {
+    background-image: url("images/sprinkles.png");
+    background-size: 200px 200px;
+}

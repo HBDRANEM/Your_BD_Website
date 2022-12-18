@@ -1,0 +1,63 @@
+.card {
+    background-color: #fff;
+    height: 50%;
+    margin: 80% 5%;
+    border-radius: 7px;
+    padding: 10%;
+    border-right: black solid 5px;
+    border-bottom: black solid 5px;
+    font-family: 'Cairo', sans-serif;
+    padding-bottom: 0%;
+}
+
+body {
+    background-color: #008888;
+    margin: 0px;
+    align-items: center;
+    display: grid;
+}
+
+h1 {
+    text-align: center;
+}
+
+.omar,
+.body,
+.salma,
+.haneen,
+.medo,
+.mahmmoud {
+    text-decoration: none;
+}
+
+.body {
+    color: lightblue;
+}
+
+.omar {
+    color: orange;
+}
+
+.salma {
+    color: #795695;
+}
+
+.haneen {
+    color: #FCA3B7;
+}
+
+.medo {
+    color: #32a89b;
+}
+
+.mahmmoud {
+    
+}
+
+.space {
+    height: 300px;
+}
+
+td {
+    padding-right: 100px;
+}

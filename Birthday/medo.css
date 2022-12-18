@@ -1,0 +1,29 @@
+html {
+    background-image: url("images/medo.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.card {
+    background-color: rgb(255, 255, 255, 0.7);
+    height: 40%;
+    margin: 100% 5%;
+    margin-bottom: 20%;
+    border-radius: 7px;
+    padding: 10%;
+    border-right: black solid 5px;
+    border-bottom: black solid 5px;
+    font-family: 'Cairo', sans-serif;
+    padding-bottom: 0%;
+    direction: rtl;
+}
+
+body {
+    margin: 0px;
+    align-items: center;
+    display: grid;
+}
+
+h1 {
+    text-align: center;
+}
