@@ -8,7 +8,7 @@
     border-bottom: black solid 5px;
     font-family: 'Cairo', sans-serif;
     padding-bottom: 0%;
-    Direction: rtl;
+    direction: rtl;
 }
 
 body {
